@@ -3,3 +3,4 @@ hello
 bye
 hello
 B
+A
